@@ -1,26 +1,4 @@
 
 body {
-	background-color: #FFF0F5;
-}
-
-h1 {
-	color: purple; 
-	font-family: Garamond;
-}
-
-h2 {
-	color: #DA70D6; 
-	font-family: Garamond;
-}
-
-p {
-	font-family: Garamond; 
-	background-color: #DDA0DD;
-	color: #000000;
-}
-
-td {
-	font-family: Garamond; f
-	font-size: 18px
-	text-align: center;
+	background-color: #F0F8FF;
 }
